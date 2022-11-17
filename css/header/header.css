@@ -49,9 +49,13 @@ input {
   padding: 18px 64px;
   border-radius: 5px;
   outline: none;
-  border: none;
+  border: 2px solid transparent;
   color: var(--white);
   background: rgba(255, 255, 255, 0.2);
+}
+
+.barra-pesquisa input:focus {
+  border-color: var(--white);
 }
 
 .barra-pesquisa input::placeholder {
