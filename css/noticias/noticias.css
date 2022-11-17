@@ -24,6 +24,10 @@
 }
 
 @media (max-width: 500px) {
+  .main-noticias {
+    margin: 50px auto;
+  }
+
   .noticia-card {
     margin-bottom: 25px;
   }
