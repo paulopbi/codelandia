@@ -3,11 +3,11 @@
 
 /*components*/
 @import url("./components/components.css");
-@import url("/css/global/colors.css");
-@import url("/css/global/tipography.css");
+@import url("./global/colors.css");
+@import url("./global/tipography.css");
 
 /*header*/
-@import url("././header/header.css");
+@import url("./header/header.css");
 
 /*noticias*/
 @import url("./noticias/noticias.css");
