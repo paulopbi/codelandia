@@ -1,0 +1,10 @@
+/*reset*/
+@import url("./reset.css");
+
+/*components*/
+@import url("./components/components.css");
+@import url("/css/components/colors.css");
+@import url("/css/components/tipography.css");
+
+/*header*/
+@import url("././header/header.css");
