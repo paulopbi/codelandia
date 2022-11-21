@@ -1,0 +1,189 @@
+/*1. Reset*/
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*2. Estilos gerais*/
+
+:root {
+  --white: #f9f9f9;
+  --white-200: #ebe9ea;
+  --gray: #474747;
+  --black-light: #181818;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/*3. Header*/
+
+.header {
+  display: block;
+}
+
+.header .header-desconto {
+  text-align: center;
+  padding: 15px;
+  color: var(--white);
+  background-color: var(--black-light);
+}
+
+.header .header-logo {
+  text-align: center;
+  padding: 15px;
+  background-color: var(--white);
+}
+
+.header-logo a {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--black-light);
+}
+
+.header-logo a:hover {
+  color: var(--gray);
+}
+
+@media (max-width: 400px) {
+  .header-desconto p {
+    font-size: 0.787rem;
+  }
+  .header-logo a {
+    font-size: 1.2rem;
+  }
+}
+
+/*4. Banner*/
+
+.banner {
+  padding: 150px 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.596), rgba(0, 0, 0, 0.596)),
+    url("../assets/background-jordan.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.banner-texto {
+  max-width: 1500px;
+  margin-left: 50px;
+  padding: 0 32px;
+  color: var(--white);
+}
+
+.banner-texto h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 19px;
+  line-height: 1.5;
+}
+
+.banner-texto p {
+  max-width: 40ch;
+  font-family: Montserrat;
+  font-size: 1.125rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 600px) {
+  .banner {
+    background-size: bottom;
+  }
+
+  .banner-texto {
+    max-width: 1500px;
+    margin-left: auto;
+    padding: 0 32px;
+    color: var(--white);
+  }
+
+  .banner-texto h2 {
+    font-size: 1.75rem;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  .banner-texto p {
+    font-size: 1rem;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+/*5. Destaques*/
+
+.destaques {
+  padding: 60px 0;
+}
+
+.destaques h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.7;
+  margin-bottom: 8px;
+  color: var(--black-light);
+}
+
+.destaques p {
+  text-align: center;
+  margin: 0 auto;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  max-width: 30ch;
+  color: var(--gray);
+}
+
+.destaques-tenis {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 60px auto;
+  padding: 0 32px;
+  gap: 18px;
+  max-width: 1500px;
+}
+
+.tenis {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--white-200);
+}
+
+@media (max-width: 500px) {
+  .destaques h1 {
+    font-size: 1.75rem;
+    line-height: 1.4;
+  }
+
+  .destaques p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+}
+
+/*6. Footer*/
+
+.footer {
+  font-size: 1.125rem;
+  text-align: center;
+  padding: 13px;
+  color: var(--white);
+  background-color: var(--black-light);
+}
