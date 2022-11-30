@@ -1,4 +1,6 @@
-/*1. Reset*/
+/*
+? 1. reset
+*/
 
 * {
   padding: 0;
@@ -6,7 +8,9 @@
   box-sizing: border-box;
 }
 
-/*2. Estilos gerais*/
+/*
+? 2. estilos gerais
+*/
 
 :root {
   --white: #f9f9f9;
@@ -28,7 +32,9 @@ img {
   max-width: 100%;
 }
 
-/*3. Header*/
+/*
+? 3. header
+*/
 
 .header {
   display: block;
@@ -66,7 +72,9 @@ img {
   }
 }
 
-/*4. Banner*/
+/*
+? 4. banner
+*/
 
 .banner {
   padding: 150px 0;
@@ -121,7 +129,9 @@ img {
   }
 }
 
-/*5. Destaques*/
+/*
+? 5. Destaques
+*/
 
 .destaques {
   padding: 60px 0;
@@ -178,7 +188,9 @@ img {
   }
 }
 
-/*6. Footer*/
+/*
+? 6. Footer
+*/
 
 .footer {
   font-size: 1.125rem;

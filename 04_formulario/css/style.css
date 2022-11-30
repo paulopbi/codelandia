@@ -1,4 +1,7 @@
-/* 1. reset */
+/* 
+? 1. reset
+*/
+
 *,
 *::before,
 *::after {
@@ -7,7 +10,9 @@
   box-sizing: border-box;
 }
 
-/* 2. variaveis */
+/* 
+? 2. variaveis 
+*/
 
 :root {
   --green-light: #04c49c;
@@ -18,7 +23,9 @@
   --gray: #1a202c;
 }
 
-/* 3. estilos gerais */
+/* 
+? 3. estilos gerais 
+*/
 
 body {
   font-family: "Lato", sans-serif;
@@ -46,7 +53,9 @@ input[type="checkbox"] {
   padding: 0;
 }
 
-/* 4. main */
+/* 
+? 4. main 
+*/
 
 .main {
   display: grid;

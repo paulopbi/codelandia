@@ -1,11 +1,16 @@
-/*1 reset*/
+/* 
+? 1 reset
+*/
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/*2. geral*/
+/* 
+? 2. geral
+*/
 
 :root {
   --purple: #6c63ff;
@@ -30,7 +35,10 @@ img {
 a {
   text-decoration: none;
 }
-/*3 utilitarios*/
+
+/* 
+? 3 utilitarios
+*/
 
 .container {
   max-width: 1200px;
@@ -60,7 +68,9 @@ a {
   color: var(--gray);
 }
 
-/*4 header*/
+/* 
+? 4 header
+*/
 
 .header-bg {
   padding: 100px 0;
@@ -108,7 +118,9 @@ a {
   }
 }
 
-/*5 main*/
+/* 
+? 5 main
+*/
 
 .main {
   display: flex;
@@ -162,7 +174,9 @@ a {
   }
 }
 
-/*6 footer*/
+/* 
+? 6 footer
+*/
 
 .footer {
   padding: 80px 0;
