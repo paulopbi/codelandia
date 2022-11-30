@@ -1,7 +1,7 @@
 <div id="top" align="center">
 
 <div align="center">
-<img src="./assets/capa_codelandia.svg" width="150em" height="auto" alt="logo">
+<img src="./assets/capa_codelandia.svg" alt="logo">
 </div>
 
 <br>
