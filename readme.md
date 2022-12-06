@@ -6,7 +6,7 @@
 
 <br>
 
-Páginas do desafio "Codelandia" finalizadas.
+Páginas do desafio "Codelândia" finalizadas.
 
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
 <a href="https://github.com/paulopbi" target="_blank">Github</a> •
@@ -15,15 +15,15 @@ Páginas do desafio "Codelandia" finalizadas.
 
 ## Créditos 
 
-Este repositório contém todas as paginas do desafio "codelandia" criada pelo desenvolvedor **<a href="https://www.instagram.com/iuricode/">"Iuri Silva"</a>, os créditos sao todos dele!** Eu apenas fiz os codigos, os links para as redes sociais do Iuri estão logo abaixo: <br>
+Este repositório contém todas as páginas do desafio "Codelândia" criada pelo desenvolvedor **[Iuri Silva](https://www.instagram.com/iuricode/), os créditos são todos dele!** Eu apenas fiz os códigos, os links para as redes sociais do Iuri estão logo abaixo: <br>
 
-- Github: https://github.com/iuricode
-- Instagram: https://www.instagram.com/iuricode/
-- Linkedin: https://www.linkedin.com/in/iuricode
-- Comunidade no Discord: https://discord.com/invite/QevDJqCzaY
+- [Github](https://github.com/iuricode)
+- [Instagram](https://www.instagram.com/iuricode/)
+- [Linkedin](https://www.linkedin.com/in/iuricode)
+- [Comunidade no Discord](https://discord.com/invite/QevDJqCzaY)
 
 ## Sobre 
-Codelandia são desafios frontend onde você tem um design e precisa reproduzir a interface. Eu fiz esse projeto usando apenas **HTML / CSS**, mas você pode usar a tecnologia que quiser! <br>
+Codelândia são desafios frontend onde você tem um design e precisa reproduzir a interface com codigo. Eu fiz esse projeto usando apenas **HTML / CSS**, mas você pode usar a tecnologia que quiser! <br>
 
 A intenção deste repositorio e ajudar quem esta com dificuldades para desenvolver as interfaces, você pode tanto ver o código aqui no Github como baixar os arquivos e testar na sua maquina!
 
@@ -43,7 +43,8 @@ Depois de ter baixado e so abrir o arquivo index.html e vizualizar o projeto.
 
 ## Estrutura do projeto
 
-Cada pasta tera o numero e nome do desafio, assim fica mais facil de saber qual desafio e. 
+Cada pasta terá o número e nome do desafio, assim fica mais fácil de saber qual desafio é. 
+<br><br>
 A estrutura fica assim: 
 
 <img src="./assets/estrutura.png" align="right" alt="estrutura de pastas">
@@ -53,21 +54,13 @@ A estrutura fica assim:
   - css
   - index.html
 
-Legenda
-
-- Nome do desafio: pasta contendo cada desafio.
-
-- Assets: tera todos os arquivos que nao sao codigos (imagens).
-
-- Css: o css do projeto
-
-- Index.html: o html do projeto
-
 ## Deploy
 
-Algumas paginas sera feito o deploy para voce poder vizualizar a versao final.
+Em algumas páginas será feito o deploy para você vizualizar a versão final do projeto.
 
-[01_blog](https://blog-codelandia-gamma.vercel.app/)
+[01_blog Deploy](https://blog-codelandia-gamma.vercel.app/)
+
+[02_jordanshoes Deploy](https://jordanshoes-codelandia.vercel.app/)
 
 ## Contato
 
@@ -80,3 +73,7 @@ Algumas paginas sera feito o deploy para voce poder vizualizar a versao final.
 - [Behance](https://www.behance.net/paulopbi)
 
 - [Instagram](https://www.instagram.com/paulopbi_/)
+
+<br><br>
+
+<a href="#top">Voltar para o início</a>
