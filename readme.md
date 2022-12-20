@@ -27,6 +27,15 @@ Codelândia são desafios frontend onde você tem um design e precisa reproduzir
 
 A intenção deste repositorio e ajudar quem esta com dificuldades para desenvolver as interfaces, você pode tanto ver o código aqui no Github como baixar os arquivos e testar na sua maquina!
 
+## Deploy
+
+Deploy de algumas páginas, clique no link e veja o projeto no ar.
+
+[01_blog Deploy](https://blog-codelandia-gamma.vercel.app/)
+
+[02_jordanshoes Deploy](https://jordanshoes-codelandia.vercel.app/)
+
+[03_One Page Deploy](https://one-page-codelandia.vercel.app/)
 ## Como começar
 
 Você pode fazer um clone do projeto ou baixar o zip clicando no botão verde "Code".
@@ -54,14 +63,6 @@ A estrutura fica assim:
   - css
   - index.html
 
-## Deploy
-
-Em algumas páginas será feito o deploy para você vizualizar a versão final do projeto.
-
-[01_blog Deploy](https://blog-codelandia-gamma.vercel.app/)
-
-[02_jordanshoes Deploy](https://jordanshoes-codelandia.vercel.app/)
-
 ## Contato
 
 > Para a remocao de conteudo entre em contato pelas redes abaixo.
@@ -74,6 +75,6 @@ Em algumas páginas será feito o deploy para você vizualizar a versão final d
 
 - [Instagram](https://www.instagram.com/paulopbi_/)
 
-<br><br>
+<br>
 
 <a href="#top">Voltar para o início</a>
