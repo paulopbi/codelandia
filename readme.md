@@ -69,6 +69,15 @@ Caso queira contribuir com esse projeto faça um fork e quando completar algum d
 
 [conventional commits documentação](https://www.conventionalcommits.org/en/v1.0.0/)
 
+## Desafios
+
+Quais desafios foram finalizados até o momento.
+
+| Desafio          | Status        |
+| ---------------- | ------------- |
+| 01 - Blog        | Finalizado ✅ |
+| 02 - JordanShoes | Finalizado ✅ |
+
 <br>
 
 <a href="#top">Voltar para o início</a>
