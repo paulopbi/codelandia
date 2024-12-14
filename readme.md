@@ -65,7 +65,9 @@ Cada pasta terá o número e nome do desafio, assim fica mais fácil de saber qu
 
 Caso queira contribuir com esse projeto faça um fork e quando completar algum desafio faça um pull request.
 
-> [!WARNING] Quando for fazer fazer algum commit, o padrão conventinal commits para manter a organização do projeto.
+> Quando for fazer fazer algum commit, o padrão conventinal commits para manter a organização do projeto.
+
+[conventional commits documentação](https://www.conventionalcommits.org/en/v1.0.0/)
 
 <br>
 
