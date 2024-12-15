@@ -56,10 +56,10 @@ Cada pasta terá o número e nome do desafio, assim fica mais fácil de saber qu
 
 - **public**: pasta com os arquivos publicos
 - **desafios**: pasta que ficarão todos os desafios
-  - **00_nome_do_desafio**: terá os desafios finalizados
-    - **assets**: contem todas as imagens necessárias.
-    - **css**: contem os arquivos css.
-    - **index.html**: contem o código html.
+- **00_nome_do_desafio**: pasta com o nome dos desafios e arquivos dos mesmos.
+- **assets**: contem todas as imagens necessárias.
+- **css**: contem os arquivos css.
+- **index.html**: contem o código html.
 
 ## Contribuição
 
@@ -73,10 +73,20 @@ Caso queira contribuir com esse projeto faça um fork e quando completar algum d
 
 Quais desafios foram finalizados até o momento.
 
-| Desafio          | Status        |
-| ---------------- | ------------- |
-| 01 - Blog        | Finalizado ✅ |
-| 02 - JordanShoes | Finalizado ✅ |
+| Desafio          | Status        | Design                                          |
+| ---------------- | ------------- | ----------------------------------------------- |
+| 01 - Blog        | Finalizado ✅ | [Demonstração](./public/design/Blog.jpg)        |
+| 02 - JordanShoes | Finalizado ✅ | [Demonstração](./public/design/JordanShoes.jpg) |
+| 03 - TechBlog    | Finalizado ✅ | [Demonstração](./public/design/TechBlog.jpg)    |
+
+## Contato
+
+Onde me encontrar ou fazer contato.
+
+**Email**: paulovictordev16@gmail.com <br>
+**Linkedin**: https://www.linkedin.com/in/paulopbi/ <br>
+**Github**: https://github.com/paulopbi <br>
+**Portfólio**: https://paulopbi.github.io/portfolio/ <br>
 
 <br>
 
