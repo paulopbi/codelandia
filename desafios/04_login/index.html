@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Página de login" />
+    <meta name="author" content="Paulo Victor" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Login</title>
+  </head>
+  <body>
+      <!-- image -->
+      <div class="left-side">
+        <img src="assets/illustration.svg" alt="illustration" />
+      </div>
+     
+      <!-- main -->
+      <main class="right-side">
+        <form class="form" onsubmit="(event) => event.preventDefault()">
+          <div class="form-heading">
+            <span>Bem vindo de volta</span>
+            <h1>Faça login na sua conta</h1>
+          </div>
+
+          <!-- email -->
+          <div class="form-email">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="exemplo@gmail.com" />
+          </div>
+
+          <!-- password -->
+          <div class="form-password">
+            <label for="password">Senha</label>
+            <input type="password" name="password" id="password" placeholder="123456789" />
+          </div>
+
+          <!-- checkbox -->
+            <div class="form-checkbox">
+              <div>
+                <input type="checkbox" id="checkbox" />
+                <label for="checkbox">Lembre de mim</label>
+              </div>
+              <a href="#">Esqueceu a senha?</a>
+            </div>
+          </div>
+
+          <!-- buttons -->
+          <div class="form-buttons">
+            <button type="submit" class="enter-button">Entrar na conta</button>
+            <button type="button" class="google-button">
+              <img src="assets/google.png" alt="Google icon" width="20" height="20">
+              Ou faça login com o Google
+              </button>
+          </div>
+
+          <!-- create account -->
+          <div class="form-footer">
+            <span>Não tem uma conta? <a href="#">Cadastre-se</a></span>
+          </div>
+        </form>
+    </main>
+  </body>
+</html>
