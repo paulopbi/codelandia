@@ -1,5 +1,6 @@
 {
   "tabWidth": 2,
   "doubleQuote": true,
-  "trailingComma": "all"
+  "trailingComma": "all",
+  "endOfLine": "lf"
 }
