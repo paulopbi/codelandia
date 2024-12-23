@@ -73,12 +73,13 @@ Caso queira contribuir com esse projeto faça um fork e quando completar algum d
 
 Quais desafios foram finalizados até o momento.
 
-| Desafio          | Status        | Design                                          |
-| ---------------- | ------------- | ----------------------------------------------- |
-| 01 - Blog        | Finalizado ✅ | [Demonstração](./public/design/Blog.jpg)        |
-| 02 - JordanShoes | Finalizado ✅ | [Demonstração](./public/design/JordanShoes.jpg) |
-| 03 - TechBlog    | Finalizado ✅ | [Demonstração](./public/design/TechBlog.jpg)    |
-| 04 - Login       | Finalizado ✅ | [Demonstração](./public/design/Login.jpg)       |
+| Desafio            | Status        | Design                                           |
+| ------------------ | ------------- | ------------------------------------------------ |
+| 01 - Blog          | Finalizado ✅ | [Demonstração](./public/design/Blog.jpg)         |
+| 02 - JordanShoes   | Finalizado ✅ | [Demonstração](./public/design/JordanShoes.jpg)  |
+| 03 - TechBlog      | Finalizado ✅ | [Demonstração](./public/design/TechBlog.jpg)     |
+| 04 - Login         | Finalizado ✅ | [Demonstração](./public/design/Login.jpg)        |
+| 05 - Studio Ghibli | Finalizado ✅ | [Demonstração](./public/design/StudioGhibli.jpg) |
 
 ## Contato
 
