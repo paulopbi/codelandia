@@ -80,6 +80,7 @@ Quais desafios foram finalizados até o momento.
 | 03 - TechBlog      | Finalizado ✅ | [Demonstração](./public/design/TechBlog.jpg)     |
 | 04 - Login         | Finalizado ✅ | [Demonstração](./public/design/Login.jpg)        |
 | 05 - Studio Ghibli | Finalizado ✅ | [Demonstração](./public/design/StudioGhibli.jpg) |
+| 06 - Mefolio       | Finalizado ✅ | [Demonstração](./public/design/Mefolio.jpg)      |
 
 ## Contato
 
