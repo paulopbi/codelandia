@@ -21,7 +21,6 @@ html {
 }
 
 body {
-  font-family: "Archivo", sans-serif;
   color: var(--white);
   background-color: var(--dark-10);
 }
