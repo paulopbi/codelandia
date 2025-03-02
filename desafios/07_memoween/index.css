@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Jolly Lodger", serif;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --brand-color-purple: #8958ff;
+  --brand-color-paper: #ffe3bd;
+  --dark-10: #000014;
+  --white: #fff;
+}
+
+body {
+  background-color: var(--dark-10);
+  color: var(--white);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.heading__title {
+  font-weight: 400;
+  text-align: center;
+  margin: 32px auto;
+  font-size: 4rem;
+  text-shadow: 0px 0px 20px var(--brand-color-purple);
+}
+
+.images-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 32px;
+  align-items: center;
+  justify-content: center;
+  max-width: 70%;
+  margin: 40px auto;
+  padding: 1rem;
+}
+
+.images-grid__card {
+  display: inline-flex;
+  width: 176px;
+  height: 176px;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: var(--brand-color-paper);
+}
+
+.images-grid__card--text {
+  display: inline-flex;
+  place-items: center;
+  place-content: center;
+  width: 176px;
+  height: 176px;
+  padding: 16px;
+  border-radius: 12px;
+  background-color: var(--brand-color-purple);
+}
+
+.images-grid__card--text h3 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+}
